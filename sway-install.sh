@@ -6,6 +6,7 @@ sudo apt install -y build-essential cmake cmake-extras curl vim xdg-user-dirs-up
 # Create folders in user directory (eg. Documents,Downloads,etc.)
 xdg-user-dirs-update
 mkdir ~/Screenshots/
+mkdir -p ~/.config/sway ~/.config/waybar ~/.config/wofi
 
 # Install only SDDM
 sudo apt install -y --no-install-recommends sddm
