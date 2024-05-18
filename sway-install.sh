@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Dependencies
-sudo apt install -y build-essential cmake cmake-extras curl vim xdg-user-dirs-update 
+sudo apt install -y build-essential cmake cmake-extras curl vim xdg-user-dirs
 
 # Create folders in user directory (eg. Documents,Downloads,etc.)
 xdg-user-dirs-update

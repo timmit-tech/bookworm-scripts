@@ -5,7 +5,7 @@
 # Sway config
 #
 cp ./config/sway/config ~/.config/sway/config
-cp ./config/sway/audo.sh ~/.config/sway/audio.sh
+cp ./config/sway/audio.sh ~/.config/sway/audio.sh
 cp ./config/sway/exit.sh ~/.config/sway/exit.sh
 cp ./config/sway/lock_screen.sh ~/.config/sway/lock_screen.sh
 #
@@ -24,4 +24,4 @@ chmod +x ~/.config/sway/*.sh
 #
 # copy wallpaper
 #
-cp ./config/wallpaper.jpg ~/.config/sway/wallpaper.jpg
+cp ./config/sway/wallpaper.jpg ~/.config/sway/wallpaper.jpg
